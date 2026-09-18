@@ -278,7 +278,7 @@ Maintaining prediction methods and reliability levels makes estimated values eas
 # 📂 Project Structure
 
 ```text
-Space-Mission-EDA/
+Space-Mission-Dataset-EDA/
 │
 ├── Space_Mission_EDA.ipynb
 ├── space_mission_data.csv
@@ -287,3 +287,11 @@ Space-Mission-EDA/
 │
 └── presentation/
     └── Space-Mission-Dataset-EDA.pdf
+```
+[Take a look at the insights and recommendations](https://space-mission-eda-3j6m8n4.gamma.site/)
+
+## 👩‍💻 Author
+
+### Veena M
+
+**LinkedIn:** https://www.linkedin.com/in/veena-m-3763ba370
