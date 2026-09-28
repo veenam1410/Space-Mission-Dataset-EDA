@@ -294,4 +294,6 @@ Space-Mission-Dataset-EDA/
 
 ### Veena M
 
-**LinkedIn:** https://www.linkedin.com/in/veenam1410
+[LinkedIn](https://www.linkedin.com/in/veenam1410)
+
+[GitHub](https://github.com/veenam1410)
